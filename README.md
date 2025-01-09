@@ -2,6 +2,8 @@
 
 A command-line interface for searching and downloading YouTube videos & songs in mp3 or mp4 format.
 
+![CLI IMG](https://raw.githubusercontent.com/Ritul-Void/YaYtunes/refs/heads/main/assets/1.PNG "YaYtube")
+
 ## Features:
 
 * Search for YouTube videos by keyword or phrase
