@@ -2,7 +2,7 @@
 
 A command-line interface for searching and downloading YouTube videos & songs in mp3 or mp4 format.
 
-<img src="https://raw.githubusercontent.com/Ritul-Void/YaYtunes/refs/heads/main/assets/1.PNG" alt="Sample Image" width="500" height="266">
+<img src="https://raw.githubusercontent.com/Ritul-Void/YaYtunes/refs/heads/main/assets/1.PNG" alt="Sample Image" width="500" height="266" style="display:inline">
 <img src="https://raw.githubusercontent.com/Ritul-Void/YaYtunes/refs/heads/main/assets/2.PNG" alt="Sample Image" width="500" height="266">
 
 
