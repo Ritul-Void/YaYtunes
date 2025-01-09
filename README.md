@@ -1,5 +1,4 @@
-
-#YaYtube
+# YaYtube
 
 A command-line interface for searching and downloading YouTube videos & songs in mp3 or mp4 format.
 
