@@ -1,3 +1,5 @@
+
+
 ██╗   ██╗ █████╗ ██╗   ██╗████████╗██╗   ██╗██████╗ ███████╗
 ╚██╗ ██╔╝██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║   ██║██╔══██╗██╔════╝
  ╚████╔╝ ███████║ ╚████╔╝    ██║   ██║   ██║██████╔╝█████╗  
@@ -11,7 +13,39 @@ A command-line interface for searching and downloading YouTube videos & songs in
 <img src="https://raw.githubusercontent.com/Ritul-Void/YaYtunes/refs/heads/main/assets/2.PNG" alt="Sample Image" width="500" height="266">
 
 
+## Usage Examples
+1. Search for a song by name:
+    ```bash
+    $ python YAYTUBE-cli.py
+    Enter your choice (1-5): 1
+    Enter the song name: <song_name>
+    ```
 
+2. Search for songs by artist:
+    ```bash
+    $ python YAYTUBE-cli.py
+    Enter your choice (1-5): 2
+    Enter the artist name: <artist_name>
+    ```
+
+3. Paste a YouTube URL to download:
+    ```bash
+    $ python YAYTUBE-cli.py
+    Enter your choice (1-5): 3
+    Paste the YouTube URL: <youtube_url>
+    ```
+
+4. List downloaded songs:
+   ```bash
+   $ python YAYTUBE-cli.py
+   Enter your choice (1-5): 4
+   ```
+
+5. Exit the program:
+   ```bash
+   $ python YAYTUBE-cli.py
+   Enter your choice (1-5): 5
+   ```
 
 
 ## Features:
