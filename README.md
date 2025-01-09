@@ -57,11 +57,6 @@ A command-line interface for searching and downloading YouTube videos & songs in
 * requests library for making HTTP requests
 * colorama library for colorful console output
 
-## Images:
 
-* [Image 1: Screenshot of the app in action](image1.png)
-* [Image 2: Logo of the app](image2.png)
+### Version: 1.0.1
 
-## Version: 1.0
-## 
-## License: [MIT]
